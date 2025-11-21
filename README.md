@@ -30,7 +30,7 @@ This project develops a machine learning system to predict healthcare insurance 
 }
 ```
 
-## Mobile Application Setup
+##  Mobile Application Setup
 
 ### Prerequisites
 - Flutter SDK (3.0 or higher)
@@ -74,13 +74,13 @@ This project develops a machine learning system to predict healthcare insurance 
 - Responsive design for multiple screen sizes
 - Haptic feedback and smooth animations
 
-## Video Demo
+##  Video Demo
 
 **YouTube Demo Link:** [Insert your YouTube video link here - max 5 minutes]
 
 *The video demonstrates the complete system including the Jupyter notebook analysis, API testing via Swagger UI, and mobile app functionality.*
 
-## Project Structure
+##  Project Structure
 
 ```
 ml_summatiive/
@@ -100,7 +100,7 @@ ml_summatiive/
 └── README.md                          # This file
 ```
 
-## Technical Implementation
+##  Technical Implementation
 
 ### Machine Learning Pipeline
 - **Data Analysis:** Comprehensive EDA with visualizations and statistical analysis
@@ -133,10 +133,10 @@ Input validation ranges:
 - Smoker: yes/no
 - Region: northeast/northwest/southeast/southwest
 
-## Model Performance
+##  Model Performance
 
 - **Random Forest RMSE:** 4,765.32
 - **Linear Regression RMSE:** 6,062.78
 - **Decision Tree RMSE:** 5,123.45
 
-I selected Random Forest model for deployment based on superior it's performance and robustness.
+The Random Forest model was selected for deployment based on superior performance and robustness.
