@@ -3,7 +3,7 @@
 ## Mission & Problem Statement
 This project develops a machine learning system to predict healthcare insurance costs based on personal factors including age, BMI, smoking status, and region. The system addresses the critical need for accurate insurance cost estimation to help individuals make informed healthcare decisions. Using a comprehensive dataset of 1,338 insurance records, we implemented multiple ML models (Linear Regression, Decision Tree, Random Forest) with the Random Forest achieving the best performance. The solution includes a complete pipeline from data analysis to deployment with a REST API and mobile application for real-world accessibility.
 
-## 🚀 Live API Endpoint
+##  Live API Endpoint
 
 **Public API URL:** https://health-insurance-cost-prediction-1-kafx.onrender.com
 
@@ -31,7 +31,7 @@ This project develops a machine learning system to predict healthcare insurance 
 }
 ```
 
-## 📱 Mobile Application Setup
+##  Mobile Application Setup
 
 ### Prerequisites
 - Flutter SDK (3.0 or higher)
@@ -81,7 +81,7 @@ This project develops a machine learning system to predict healthcare insurance 
 
 *The video demonstrates the complete system including the Jupyter notebook analysis, API testing via Swagger UI, and mobile app functionality.*
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ml_summatiive/
@@ -101,7 +101,7 @@ ml_summatiive/
 └── README.md                          # This file
 ```
 
-## 🔧 Technical Implementation
+##  Technical Implementation
 
 ### Machine Learning Pipeline
 - **Data Analysis:** Comprehensive EDA with visualizations and statistical analysis
@@ -122,7 +122,7 @@ ml_summatiive/
 - **Validation:** Client-side form validation matching API constraints
 - **Integration:** HTTP requests to live API endpoint
 
-## 🧪 Testing
+##  Testing
 
 Test the API using the Swagger UI at: https://health-insurance-cost-prediction-1-kafx.onrender.com/docs
 
@@ -134,7 +134,7 @@ Input validation ranges:
 - Smoker: yes/no
 - Region: northeast/northwest/southeast/southwest
 
-## 📊 Model Performance
+##  Model Performance
 
 - **Random Forest RMSE:** 4,765.32
 - **Linear Regression RMSE:** 6,062.78
