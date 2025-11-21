@@ -41,7 +41,7 @@ This project develops a machine learning system to predict healthcare insurance 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/Yunis-konda001/health_insurance-cost_prediction.git
    cd ml_summatiive/linear_regression_model/summative/FlutterApp
    ```
 
