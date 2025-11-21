@@ -76,7 +76,7 @@ This project develops a machine learning system to predict healthcare insurance 
 
 ##  Video Demo
 
-**YouTube Demo Link:** [Insert your YouTube video link here - max 5 minutes]
+**YouTube Demo Link:** https://youtu.be/uOcOh8gK9i0
 
 *The video demonstrates the complete system including the Jupyter notebook analysis, API testing via Swagger UI, and mobile app functionality.*
 
